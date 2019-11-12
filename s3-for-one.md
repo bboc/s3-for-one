@@ -394,7 +394,7 @@ Bernhard Bockelbrink, April 2016
 
 ## Resources ##
 
-The full text of this guide is available as a web page at <http://s3-for-one.com>, and as an ebook for download, see <http://s3-for-one.com/download.html> for details.
+The full text of this guide is available as a web page at <http://s3-for-one.com>, and as an ebook for download, see <http://s3-for-one.com/downloads.html> for details.
 
 *S3 for One* builds on Sociocracy 3.0 (a.k.a. S3), a framework I created together with my friend James Priest. S3 contains more than 60 patterns for for collaboration in agile organizations.  You can find out more about Sociocracy 3.0 at <http://sociocracy30.org/>.
 

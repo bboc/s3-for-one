@@ -19,7 +19,7 @@ In the [appendix][] there’s a detailed example so you can take a peek at how a
 
 This guide is a work in progress, and a bit rough around the edges, so I’m curious for any questions, comments or suggestions you might have. You can reach me at <bernhard.bockelbrink@gmail.com>. There’s also [changelog][] so you can see what’s new.
 
-The full text of this guide is available as a web page at <http://s3-for-one.com>, and as an ebook for download, see <http://s3-for-one.com/download.html> for details.
+The full text of this guide is available as a web page at <https://s3-for-one.com>, and as an ebook for download, see <https://s3-for-one.com/download.html> for details.
 
 
 # Part 1 - Decide What To Do #
@@ -209,9 +209,9 @@ Tbd.
 
 You need to develop and maintain a logbook for tracking all relevant information, otherwise you will not be able to reap the full benefit of a structured approach. 
 
-To make this work for you, you might need to develop your system which makes it easy to document progress/metrics and experiences. Your system you should be simple, fast, flexible, portable and pleasant to use. Whatever works for you is great. If your prefer a digital solution, you might want to take a look at [Simplenote](https://simplenote.com) (web, Windows, Mac, Linux, iOS, Android, Kindle Fire), [Evernote](http://evernote.com) (web, Windows, Mac, Android, iOS), [Trello](http://trello.com) (web, iOS, Android), [Google Docs](http://docs.google.com) and [Google Sheets](http://sheets.google.com) (web, iOS, Android), and [Day One](http://dayoneapp.com) (Mac, iOS)
+To make this work for you, you might need to develop your system which makes it easy to document progress/metrics and experiences. Your system you should be simple, fast, flexible, portable and pleasant to use. Whatever works for you is great. If your prefer a digital solution, you might want to take a look at [Simplenote](https://simplenote.com) (web, Windows, Mac, Linux, iOS, Android, Kindle Fire), [Evernote](https://evernote.com) (web, Windows, Mac, Android, iOS), [Trello](https://trello.com) (web, iOS, Android), [Google Docs](https://docs.google.com) and [Google Sheets](https://sheets.google.com) (web, iOS, Android), and [Day One](https://dayoneapp.com) (Mac, iOS)
 
-I find that Outliners (e.g. [OmniOutliner](https://www.omnigroup.com/omnioutliner/), [Carbon Fin Outliner](http://www.carbonfin.com/), [WorkFlowy](https://workflowy.com/)) or digital whiteboards are helpful for picture forming and defining and evolving your experiments, as they allow for quickly re-arranging and grouping things, especially on touch screens.
+I find that Outliners (e.g. [OmniOutliner](https://www.omnigroup.com/omnioutliner/), [Carbon Fin Outliner](https://www.carbonfin.com/), [WorkFlowy](https://workflowy.com/)) or digital whiteboards are helpful for picture forming and defining and evolving your experiments, as they allow for quickly re-arranging and grouping things, especially on touch screens.
 
 
 ## Taking Notes ##
@@ -387,16 +387,16 @@ To that end, I bring in all my experience with change management, collaboration,
 
 Together with my friend James Priest I am a steward of Sociocracy 3.0 (S3), and I dedicate some of my time to developing and spreading knowledge about S3. 
 
-If you’re curious, you can learn more about what I do at my website <http://evolvingcollaboration.com/about-me/>.
+If you’re curious, you can learn more about what I do at my website <https://evolvingcollaboration.com/about-me/>.
 
 Bernhard Bockelbrink, April 2016
 
 
 ## Resources ##
 
-The full text of this guide is available as a web page at <http://s3-for-one.com>, and as an ebook for download, see <http://s3-for-one.com/downloads.html> for details.
+The full text of this guide is available as a web page at <https://s3-for-one.com>, and as an ebook for download, see <https://s3-for-one.com/downloads.html> for details.
 
-*S3 for One* builds on Sociocracy 3.0 (a.k.a. S3), a framework I created together with my friend James Priest. S3 contains more than 60 patterns for for collaboration in agile organizations.  You can find out more about Sociocracy 3.0 at <http://sociocracy30.org/>.
+*S3 for One* builds on Sociocracy 3.0 (a.k.a. S3), a framework I created together with my friend James Priest. S3 contains more than 60 patterns for for collaboration in agile organizations.  You can find out more about Sociocracy 3.0 at <https://sociocracy30.org/>.
 
 
 ## Simple Template for Documenting a Decisions and Experiments ##

@@ -19,7 +19,7 @@ In the [appendix][] there’s a detailed example so you can take a peek at how a
 
 This guide is a work in progress, and a bit rough around the edges, so I’m curious for any questions, comments or suggestions you might have. You can reach me at <bernhard.bockelbrink@gmail.com>. There’s also [changelog][] so you can see what’s new.
 
-The full text of this guide is available as a web page at <http://s3-for-one.com>, and as an ebook for download, see <http://s3-for-one.com/download.html> for details.
+The full text of this guide is available as a web page at <https://s3-for-one.com>, and as an ebook for download, see <https://s3-for-one.com/download.html> for details.
 
 
 # Part 1 - Decide What To Do #
@@ -137,7 +137,7 @@ You're clear about your situation and motivation, have collected criteria and id
 ### Tuning Proposal(s) ###
 
 
-The ideas you collected are most likely to many to implement all at once, and usually don't form a consistent whole, you will find contradictory ingredients and some gaps in need of bridging. 
+The ideas you collected are most likely too many to implement all at once, and usually don't form a consistent whole, you will find contradictory ingredients and some gaps in need of bridging.
 
 It's a good idea to create an ordered backlog of the ideas (if you have defined a strategy, you would limit yourself to those ideas relevant to that strategy), using these questions as guides:
 
@@ -179,7 +179,7 @@ Before you start, you should take one last good look at each of your proposals a
 ### Clear as written ###
 
 
-Is the proposal documented in a way you will understand it a few months down the road? Now's the time to make amendments, because memory is tricky thing and guessing and misunderstandings down the road offend invalidates the learning form your experiments (and sometimes even without you noticing, which is the worst kind of waste).
+Is the proposal documented in a way you will understand it a few months down the road? Now's the time to make amendments, because memory is a tricky thing and guessing and misunderstandings down the road often invalidates the learning from your experiments (and sometimes even without you noticing, which is the worst kind of waste).
 
 
 ### Good Enough for Now, Safe Enough to Try ###
@@ -209,9 +209,9 @@ Tbd.
 
 You need to develop and maintain a logbook for tracking all relevant information, otherwise you will not be able to reap the full benefit of a structured approach. 
 
-To make this work for you, you might need to develop your system which makes it easy to document progress/metrics and experiences. Your system you should be simple, fast, flexible, portable and pleasant to use. Whatever works for you is great. If your prefer a digital solution, you might want to take a look at [Simplenote](https://simplenote.com) (web, Windows, Mac, Linux, iOS, Android, Kindle Fire), [Evernote](http://evernote.com) (web, Windows, Mac, Android, iOS), [Trello](http://trello.com) (web, iOS, Android), [Google Docs](http://docs.google.com) and [Google Sheets](http://sheets.google.com) (web, iOS, Android), and [Day One](http://dayoneapp.com) (Mac, iOS)
+To make this work for you, you might need to develop your system which makes it easy to document progress/metrics and experiences. Your system you should be simple, fast, flexible, portable and pleasant to use. Whatever works for you is great. If your prefer a digital solution, you might want to take a look at [Simplenote](https://simplenote.com) (web, Windows, Mac, Linux, iOS, Android, Kindle Fire), [Evernote](https://evernote.com) (web, Windows, Mac, Android, iOS), [Trello](https://trello.com) (web, iOS, Android), [Google Docs](https://docs.google.com) and [Google Sheets](https://sheets.google.com) (web, iOS, Android), and [Day One](https://dayoneapp.com) (Mac, iOS)
 
-I find that Outliners (e.g. [OmniOutliner](https://www.omnigroup.com/omnioutliner/), [Carbon Fin Outliner](http://www.carbonfin.com/), [WorkFlowy](https://workflowy.com/)) or digital whiteboards are helpful for picture forming and defining and evolving your experiments, as they allow for quickly re-arranging and grouping things, especially on touch screens.
+I find that Outliners (e.g. [OmniOutliner](https://www.omnigroup.com/omnioutliner/), [Carbon Fin Outliner](https://www.carbonfin.com/), [WorkFlowy](https://workflowy.com/)) or digital whiteboards are helpful for picture forming and defining and evolving your experiments, as they allow for quickly re-arranging and grouping things, especially on touch screens.
 
 
 ## Taking Notes ##
@@ -236,7 +236,7 @@ A personal retrospective is a session where you reflect on either a certain peri
 1. **setting the stage**: review your notes from the last retrospective on what you wanted to improve [^if you have any notes], tune in to the subject of the retrospective, get in the mood for reflection
 2. **gather data**: review your logbook or diary, maybe sketch out a timeline with the most important events to jog your memory
 3. **generate insights**: make a list of the patterns, anomalies and tensions you recognized when gathering data
-4. **decide what to do**: pick the top three items from your list and decide what to do about each of them. Sometimes the result will be a task or an action you can do right on the spot, sometimes you will schedule it for later, and sometimes you will simply update a driver, strategy or experiment. Take a look at the rest of your list, maybe there’s one or two things you want to add it to your *tension backlog* (explained in more detail in Part 4 - Navigate via Tensions). There’s no need to keep everything, the important stuff will inevitably come back.
+4. **decide what to do**: pick the top three items from your list and decide what to do about each of them. Sometimes the result will be a task or an action you can do right on the spot, sometimes you will schedule it for later, and sometimes you will simply update a driver, strategy or experiment. Take a look at the rest of your list, maybe there’s one or two things you want to add to your *tension backlog* (explained in more detail in Part 4 - Navigate via Tensions). There’s no need to keep everything, the important stuff will inevitably come back.
 5. **close the retrospective**: Do a quick review of the retrospective, what did you achieve in this retrospective, what can you improve next time?
 
 For each of the phases, there are many different ideas and formats, which will probably be discussed in a later version of this guide.
@@ -340,7 +340,7 @@ The session usually consists of five phases:
 1. **Tune in**: Take a brief look at our suggestions for improvements from the last session.
 2. **Review backlog and decide on agenda**: time-box this phase to 5 minutes, and take a look at you tension backlog to compile an agenda of the things you want to process in this session. Put the most important item on top, and do a quick estimate for each item how much time you’ll need to deal with it.
 3. **Process your agenda**:  Work through the items on your agenda in order of importance, and set the time box for each item to your estimate from phase one. If an item can't be completed in the session, you can schedule a separate session for a later date (but before the next navigation session). Often it’s a good idea to look at the driver, and then make that decision. 
-4. **Update tension backlog**: Make sure you remove processed items the tension backlog, and update priorities of the remaining [^fn1] accordingly. If this takes longer than a few minutes, you may use the wrong system maintain your backlog, or it may contain too many unimportant items.
+4. **Update tension backlog**: Make sure you remove processed items the tension backlog, and update priorities of the remaining items accordingly. If this takes longer than a few minutes, you may use the wrong system to maintain your backlog, or it may contain too many unimportant items.
 5. **Short review of the session**: What went well, what can you improve next time?
 
 
@@ -387,16 +387,16 @@ To that end, I bring in all my experience with change management, collaboration,
 
 Together with my friend James Priest I am a steward of Sociocracy 3.0 (S3), and I dedicate some of my time to developing and spreading knowledge about S3. 
 
-If you’re curious, you can learn more about what I do at my website <http://evolvingcollaboration.com/about-me/>.
+If you’re curious, you can learn more about what I do at my website <https://evolvingcollaboration.com/about-me/>.
 
 Bernhard Bockelbrink, April 2016
 
 
 ## Resources ##
 
-The full text of this guide is available as a web page at <http://s3-for-one.com>, and as an ebook for download, see <http://s3-for-one.com/downloads.html> for details.
+The full text of this guide is available as a web page at <https://s3-for-one.com>, and as an ebook for download, see <https://s3-for-one.com/downloads.html> for details.
 
-*S3 for One* builds on Sociocracy 3.0 (a.k.a. S3), a framework I created together with my friend James Priest. S3 contains more than 60 patterns for for collaboration in agile organizations.  You can find out more about Sociocracy 3.0 at <http://sociocracy30.org/>.
+*S3 for One* builds on Sociocracy 3.0 (a.k.a. S3), a framework I created together with my friend James Priest. S3 contains more than 60 patterns for for collaboration in agile organizations.  You can find out more about Sociocracy 3.0 at <https://sociocracy30.org/>.
 
 
 ## Simple Template for Documenting a Decisions and Experiments ##
@@ -576,9 +576,3 @@ I will take a few hours each week to learn new things. To that end, I will sched
 I will log learning session start and end times, as well as the topics. I will also log whenever I notice that I have applied what I have learned.
 
 I will review this experiment one month from now. 
-
-
-
-
-
-[^fn1]: items

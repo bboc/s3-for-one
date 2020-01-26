@@ -3493,7 +3493,7 @@ PDF and EPUB}</string>
 		<key>Sidebar_Tab</key>
 		<integer>0</integer>
 		<key>VisibleRegion</key>
-		<string>{{-306.34920866791566, -626.98413172967219}, {1812.6984264184439, 1500.0000113532656}}</string>
+		<string>{{-306.34921320922223, -627.50000567663301}, {1812.6984264184439, 1500.0000113532658}}</string>
 		<key>WindowInfo_InspectorTab</key>
 		<array>
 			<string>com.omnigroup.OmniGraffle.inspectorGroup.document</string>

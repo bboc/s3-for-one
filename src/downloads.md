@@ -8,7 +8,7 @@ CSS:             styles.css
 Base Header Level:  1 
 
 <figure>
-<img style="max-width: 100%;" src="img/header.png" alt="" title="S3 for One - An Application of Sociocracy 3.0 for Intentional Personal Change" />
+<img style="max-width: 100%;" src="img/other/header.png" alt="" title="S3 for One - An Application of Sociocracy 3.0 for Intentional Personal Change" />
 </figure>
 
 # Downloads 

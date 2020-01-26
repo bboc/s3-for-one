@@ -11,7 +11,7 @@ Do you want to improve your communication skills, develop a healthier lifestyle,
 
 *S3 for One* is an adaptive process, it allows you to go as fast or as slow as you want (or can). It facilitates understanding about yourself and the situation you’re in, and helps you translate this learning into intentional and incremental change. The underlying idea is simple: you assess your situation and your needs (your "driver"), identify possible strategies and decide which one looks most promising, and then you create a series of small experiments to discover whether or not you can successfully implement your strategy. Each experiment will reveal new information about yourself, your situation, and your strategy, so you can easily adapt and evolve your approach.
 
-![S3 for One - An Overview](img/overview-diagram.png)
+![S3 for One - An Overview](img/illustrations/overview-diagram.png)
 
 The first part of this guide ("[Part 1 - Decide What To Do][]") will walk you through everything you need to do before starting with your first experiment: an assessment of your situation, identifying ideas, deciding on a strategy, defining your experiments, and committing to go. In the second part ("[Part 2 - Amplify Learning][]"), you will discover a few tools to help you with learning as much as you can from your experiments. The third part ("[Part 3 - Review and Evolve][]") will show you how to inspect and adapt your strategies and experiments, and the last part ("[Part 4 - Navigate via Tensions][]") will help you put it all together in a lightweight process.
 
@@ -50,7 +50,7 @@ Making a decision, or creating an experiment happens in four main phases:
 
 In the phase of picture forming you will assess the situation and describe it in a special format, then you will reveal the scope of the issue by gathering criteria and considerations for solutions, and finally you will collect ideas you to later use as a basis for your strategies and experiments.
 
-![Picture Forming Overview](img/picture-forming.png)
+![Picture Forming Overview](img/illustrations/picture-forming.png)
 
 
 ### The Driver ###
@@ -97,7 +97,7 @@ You're done if you have at least one idea to match each criterion and each need.
 
 After you have collected enough ideas, you group them into themes so they’re easier to manage. With the themes you may be able to identify  different or even conflicting approaches, these are your potential strategies. You will pick the strategy that appears to have the highest chance of success, and define its intended outcome.
 
-![Themes and Strategies](img/themes-and-strategies.png)
+![Themes and Strategies](img/illustrations/themes-and-strategies.png)
 
 
 ### Group Ideas Into Themes ###
@@ -131,7 +131,7 @@ Creating a strategy has three simple steps:
 
 You're clear about your situation and motivation, have collected criteria and ideas, and maybe even have defined your strategy, so everything's set for creating your first experiment. 
 
-![Shaping Proposals Overview](img/shape-proposals.png)
+![Shaping Proposals Overview](img/illustrations/shape-proposals.png)
 
 
 ### Tuning Proposal(s) ###
@@ -173,7 +173,7 @@ The last step is scheduling the first review: when will you evaluate outcome and
 
 Before you start, you should take one last good look at each of your proposals and determine if it's good to go.
 
-![Commit to Go](img/commit-to-go.png)
+![Commit to Go](img/illustrations/commit-to-go.png)
 
 
 ### Clear as written ###
@@ -255,7 +255,7 @@ A weekly retrospective might just take 10-15 minutes, if you reflect on a projec
 
 On a regular basis you will spent a few minutes with each of your drivers, strategies and experiments so that you can continuously evolve and adapt them as you learn. After each review, make sure to schedule the next one. For new experiments, you should aim for a short cadence, like a couple of weeks, but after a few iterations it’s ok to do a review only once or twice a year.
 
-![Review and Evolve](img/review-and-evolve.png)
+![Review and Evolve](img/illustrations/review-and-evolve.png)
 
 
 ## Triggering an Early Review ##
@@ -319,7 +319,7 @@ Tbd.
 ## Collecting and Processing Tensions ##
 
 
-![Processing Tensions ](img/processing-tensions-flowchart-personal.png)
+![Processing Tensions ](img/illustrations/processing-tensions-flowchart-personal.png)
 
 Whenever you discover something which is not the way it should be, you have three choices
 
@@ -379,7 +379,7 @@ I wish you the best of luck, email me for any questions or comments at <bernhard
 
 ## About the Author ##
 
-<div><img src="bernhard-bockelbrink.png" alt="" title="Bernhard Bockelbrink" /></div>
+<div><img src="img/bernhard-bockelbrink.png" alt="" title="Bernhard Bockelbrink" /></div>
 
 As a coach, trainer and consultant I support individuals, teams and organizations in navigating complex challenges and developing a culture of effective, conscious and joyful collaboration.
 

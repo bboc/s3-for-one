@@ -1,6 +1,8 @@
 # set filename and add current date to output-files
 NAME=s3-for-one
-
+LOC=src/localization.po
+PRJ=project.yaml
+MKTPL=mdslides template
 
 make epub:
 	# ---- Render EPUB ----
@@ -13,9 +15,8 @@ endif
 	# copy necessary files
 	cp src/templates/epub/master-epub.md tmp/epub/
 	cp src/templates/epub/buttondown.css tmp/epub/
-	cp src/templates/epub/metadata.yaml tmp/epub/
+	$(MKTPL) src/templates/epub/metadata.yaml tmp/epub/metadata.yaml  $(LOC) $(PRJ)
 	cp src/s3-for-one.md tmp/epub/
-
 	# render markdown to HTML
 	cd tmp/epub; multimarkdown --to=html --output=$(NAME).html master-epub.md
 	# use pandoc to create epub file

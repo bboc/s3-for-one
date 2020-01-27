@@ -3,7 +3,7 @@ NAME=s3-for-one
 
 
 make epub:
-	# Render EPUB
+	# ---- Render EPUB ----
 ifneq ("$(wildcard tmp/epub/img)","")
 	# take no risk here!
 	rm -r tmp/epub/img
@@ -20,6 +20,30 @@ endif
 	cd tmp/epub; multimarkdown --to=html --output=$(NAME).html master-epub.md
 	# use pandoc to create epub file
 	cd tmp/epub; pandoc --metadata-file=metadata.yaml  -s -o ../$(NAME).epub $(NAME).html
+
+
+ebook:
+	# ---- Render PDF ----
+
+	# remove old images
+ifneq ("$(wildcard tmp/tex/img)","")
+	# take no risk here!
+	rm -r tmp/tex/img
+endif
+	# copy images and styles
+	cp -r src/img tmp/tex/
+	cp src/templates/tex/master.tex tmp/tex/
+	cp src/templates/tex/cvstyle.sty tmp/tex/
+
+	# render MMD to latex (output is included in master.tex)
+	multimarkdown --to=latex --output=tmp/tex/compiled.tex src/templates/tex/master-tex.md
+	# render to pdf
+	cd tmp/tex; latexmk -pdf -silent master.tex 
+	# copy pdf to output folder
+	cp tmp/tex/master.pdf tmp/$(NAME).pdf
+	# clean up latex artefacts
+	cd tmp/tex; latexmk -c master.tex 
+
 
 make site:
 	# ---- Create website ----
@@ -47,5 +71,5 @@ make setup:
 	echo "this might produce error output if directories already exist"
 	-mkdir -p tmp
 	-mkdir -p tmp/epub
-	-mkdir -p tmp/ebook
+	-mkdir -p tmp/tex
 	-mkdir -p tmp/web

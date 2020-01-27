@@ -6,6 +6,6 @@ Do you want to improve your communication skills, develop a healthier lifestyle,
 
 *S3 for One* is an adaptive process, it allows you to go as fast or as slow as you want (or can). It facilitates understanding about yourself and the situation you’re in, and helps you translate this learning into intentional and incremental change. The underlying idea is very simple: you assess your situation and your needs, you identify possible strategies and decide which one looks most promising, and then you create a series of small experiments to discover whether or not you can successfully implement your strategy. Each experiment will reveal new information about yourself, your situation, and your strategy, so you can easily adapt and evolve your approach.
 
-Curious? *S3 for One* is available as a web page at <http://s3-for-one.com>, and as an ebook for download, see <http://s3-for-one.com/download.html> for details.
+Curious? *S3 for One* is available as a web page at <http://s3-for-one.com>, and as an ebook for download, see <http://s3-for-one.com/downloads.html> for details.
 
 *S3 for One* builds on Sociocracy 3.0, a framework of more than 70 patterns for growing effective, resilient and agile organizations. You can find out more about Sociocracy 3.0 at <http://sociocracy30.org/>.

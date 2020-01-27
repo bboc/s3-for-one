@@ -15,7 +15,7 @@ endif
 	# copy necessary files
 	cp src/templates/epub/master-epub.md tmp/epub/
 	cp src/templates/epub/buttondown.css tmp/epub/
-	$(MKTPL) src/templates/epub/metadata.yaml tmp/epub/metadata.yaml  $(LOC) $(PRJ)
+	$(MKTPL) src/templates/epub/metadata.yaml tmp/epub/metadata.yaml $(LOC) $(PRJ)
 	cp src/s3-for-one.md tmp/epub/
 	# render markdown to HTML
 	cd tmp/epub; multimarkdown --to=html --output=$(NAME).html master-epub.md
@@ -33,17 +33,18 @@ ifneq ("$(wildcard tmp/tex/img)","")
 endif
 	# copy images and styles
 	cp -r src/img tmp/tex/
-	cp src/templates/tex/master.tex tmp/tex/
-	cp src/templates/tex/cvstyle.sty tmp/tex/
+	
+	$(MKTPL) src/templates/tex/ebook.tex tmp/tex/ebook.tex $(LOC) $(PRJ)
+	cp src/templates/tex/ebook-style.sty tmp/tex/
 
 	# render MMD to latex (output is included in master.tex)
 	multimarkdown --to=latex --output=tmp/tex/compiled.tex src/templates/tex/master-tex.md
 	# render to pdf
-	cd tmp/tex; latexmk -pdf -silent master.tex 
+	cd tmp/tex; latexmk -pdf -xelatex -silent ebook.tex 
 	# copy pdf to output folder
-	cp tmp/tex/master.pdf tmp/$(NAME).pdf
+	cp tmp/tex/ebook.pdf tmp/$(NAME).pdf
 	# clean up latex artefacts
-	cd tmp/tex; latexmk -c master.tex 
+	cd tmp/tex; latexmk -C
 
 
 make site:
@@ -56,10 +57,18 @@ endif
 	# copy images and styles
 	cp -r src/img tmp/web/
 	cp src/templates/web/styles.css tmp/web/
+	cp src/s3-for-one.md tmp/web/s3-for-one.md
+	$(MKTPL) src/templates/web/downloads.md tmp/web/downloads.md $(LOC) $(PRJ)
+	$(MKTPL) src/templates/web/master-html.md tmp/web/master-html.md $(LOC) $(PRJ)
 
 	# Render index.html and downloads.html
-	multimarkdown --to=html --output=tmp/web/index.html src/templates/web/master-html.md
-	multimarkdown --to=html --output=tmp/web/downloads.html src/downloads.md
+	multimarkdown --to=html --output=tmp/web/index.html tmp/web/master-html.md
+	multimarkdown --to=html --output=tmp/web/downloads.html tmp/web/downloads.md
+
+	rm tmp/web/downloads.md
+	rm tmp/web/master-html.md
+	rm tmp/web/s3-for-one.md
+
 	# provide pdf and epub for website
 	cp $(NAME).epub tmp/web/$(NAME).epub
 	cp $(NAME).pdf tmp/web/$(NAME).pdf

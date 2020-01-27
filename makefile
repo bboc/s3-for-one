@@ -21,6 +21,23 @@ endif
 	# use pandoc to create epub file
 	cd tmp/epub; pandoc --metadata-file=metadata.yaml  -s -o ../$(NAME).epub $(NAME).html
 
+make site:
+	# ---- Create website ----
+	# remove old images
+ifneq ("$(wildcard tmp/web/img)","")
+	# take no risk here!
+	rm -r tmp/web/img
+endif
+	# copy images and styles
+	cp -r src/img tmp/web/
+	cp src/templates/web/styles.css tmp/web/
+
+	# Render index.html and downloads.html
+	multimarkdown --to=html --output=tmp/web/index.html src/templates/web/master-html.md
+	multimarkdown --to=html --output=tmp/web/downloads.html src/downloads.md
+	# provide pdf and epub for website
+	cp $(NAME).epub tmp/site//$(NAME).epub
+	cp $(NAME).pdf tmp/site//$(NAME).pdf
 
 make clean:
 	# take no risk here!
@@ -29,5 +46,6 @@ make clean:
 make setup:
 	echo "this might produce error output if directories already exist"
 	-mkdir -p tmp
-	-mkdir -p tmp/ebook
 	-mkdir -p tmp/epub
+	-mkdir -p tmp/ebook
+	-mkdir -p tmp/web

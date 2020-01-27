@@ -1,0 +1,13 @@
+title:
+- type: main
+  text: ${title}
+- type: subtitle
+  text: ${subtitle}
+creator:
+- role: author
+  text: ${author}
+rights: ${copyright}
+lang: ${epub_langage}
+page-progression-direction: ${html_dir}
+cover-image: img/other/book-cover.png
+css: buttondown.css

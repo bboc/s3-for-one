@@ -1,0 +1,24 @@
+title: "S3 for One"
+subtitle: "An Application of Sociocracy 3.0 for Intentional Personal Change"
+title_long: "S3 for One - An Application of Sociocracy 3.0 for Intentional Personal Change"
+
+author: "Bernhard Bockelbrink"
+copyright: "© 2015 - 2020 Bernhard Bockelbrink, CC-BY-SA"
+email: "bernhard.bockelbrink@gmail.com"
+
+html_description: "The official website for 'S3 for One' by Bernhard Bockelbrink."
+html_keywords: "Sociocracy 3.0, habits, intentional change, productivity, Getting Things Done, Bernhard Bockelbrink, GTD, personal change, coaching, patterns"
+
+# Language and text direction for Jekyll or HTML site
+epub_langage: "en-US"
+html_language: "en"
+html_dir: "ltr"
+
+# CNAME for GitHub-Page
+#microsite_cname: "s3-for-one.com"
+
+# Version of the ebook and the site
+version: "v2020-01-27"
+
+# URL o the Github project
+#github_url: "https://github.com/bboc/s3-for-one"

@@ -11,6 +11,8 @@ Base Header Level: 1
 <img style="max-width: 100%;" src="img/other/header.png" alt="" title="S3 for One - An Application of Sociocracy 3.0 for Intentional Personal Change" />
 </figure>
 
+<p>${version}</p>
+
 [Download this text as epub or pdf](downloads.html)
 
 {{TOC}}

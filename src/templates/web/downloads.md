@@ -13,8 +13,8 @@ Base Header Level: 1
 
 # Downloads 
 
-* [S3 for One (epub)](s3-for-one.epub) (latest version)
-* [S3 for One (pdf)](s3-for-one.pdf) (latest version)
+* [S3 for One (epub)](s3-for-one.epub) (${version})
+* [S3 for One (pdf)](s3-for-one.pdf) (${version})
 
 [return to text](index.html)
 

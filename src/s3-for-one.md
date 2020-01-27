@@ -2,8 +2,8 @@ Title: S3 for One
 Author: Bernhard Bockelbrink
 Base Header Level: 2
 
-# Introduction #
 
+# Introduction #
 
 This guide describes the application of Sociocracy 3.0 (a.k.a. ’S3') as a framework for personal development and more mindful being. It can also serve as a method for guiding and documenting one-on-one coaching sessions.
 
@@ -24,7 +24,6 @@ The full text of this guide is available as a web page at <https://s3-for-one.co
 
 # Part 1 - Decide What To Do #
 
-
 Many of our decisions, large or small, are made by intuition, and rationalized only after the decision was made. This is what our brains have evolved to excel in, and for many aspects of life - mostly short-term ones - this has proven to be good enough. Seen through the lens of evolution, “good enough” roughly translates to “usually doesn’t kill you before you had the chance to produce offspring”. Making decisions intuitively is statistically very efficient, especially when facing complexity combined with a lack of available information, and it prevents analysis paralysis. But often our intuition is subject to biases and fallacies (e.g. the sunk cost fallacy), and it even stands in our way when we want to change the way we make decisions or respond to certain situations.
 
 Quite a few of our actions in daily life are not governed by decisions at all, but have been taken over by habits. Habits are a way for the brain to conserve energy, an automated and non-conscious response to a certain stimulus is less “expensive” than thinking and making a deliberate decision.
@@ -35,7 +34,7 @@ That’s why it’s a good idea to consider all decisions as a series of experim
 
 Conducting an experiment is easy: you try something that you think would work, and you do it in a way you will know whether or not it has worked afterwards. That way, even when your experiment fails, you will have learned something you can use for creating new and incrementally better experiments.
 
-Deciding on what could be the next experiment is often relatively painless, especially in a complex situation, as it only needs to be  *good enough for now, and safe enough to try*, instead of aiming for perfection. You can then use what you learned in this experiment to design the next one, and iteratively  evolve the decision until it works for you.
+Deciding on what could be the next experiment is often relatively painless, especially in a complex situation, as it only needs to be *good enough for now, and safe enough to try*, instead of aiming for perfection. You can then use what you learned in this experiment to design the next one, and iteratively evolve the decision until it works for you.
 
 Making a decision, or creating an experiment happens in four main phases:
 
@@ -47,14 +46,12 @@ Making a decision, or creating an experiment happens in four main phases:
 
 ## Picture Forming ##
 
-
 In the phase of picture forming you will assess the situation and describe it in a special format, then you will reveal the scope of the issue by gathering criteria and considerations for solutions, and finally you will collect ideas you to later use as a basis for your strategies and experiments.
 
 ![Picture Forming Overview](img/illustrations/picture-forming.png)
 
 
 ### The Driver ###
-
 
 When we think about a project, or something we want to change in our lives, we often tend to focus mostly about outcome or goals, without considering much why we want to go there in the first place. 
 So whatever it is you want to achieve, it's always a good idea to get a clear understanding what motivates you to act: what is your situation, and what are your needs. In S3, this is called the *driver*, and there’s a simple format for mapping it out: first describe the situation by listing facts and observations, then identify your needs (or requirements) that exist within the situation. 
@@ -66,10 +63,9 @@ While it's important to have a clear understanding of your driver, don't get los
 
 ### Criteria and Considerations ###
 
-
 With the driver in front of you, now it's time to take a look at the scope of the issue. The goal here is to create a list that covers all relevant aspects: What are criteria for a successful solution? What do you need to find out or research? What are things you need to keep in mind? 
 
-You will later use this list first as guide to develop ideas for solutions, and then as a “checklist” to find out whether or not  proposals for experiments (or decisions) are reasonably complete. 
+You will later use this list first as guide to develop ideas for solutions, and then as a “checklist” to find out whether or not proposals for experiments (or decisions) are reasonably complete. 
 
 To that end, it helps to write down questions instead of just bullet points. Questions inspire creativity and make it easier to be more specific: When thinking of “budget”, you could use “How much is my budget?”, and “How can I make sure to stay within budget?” to cover two distinct aspects of budgets. Instead of “action plan” you might ask “What could be a good first step?”.
 
@@ -79,7 +75,6 @@ When you’re done, go through the list once more and mark those questions you c
 
 
 ### Collecting Ideas ###
-
 
 Using the driver and your list of criteria and considerations as a guide, you begin collecting ideas as ingredients for your experiments. Treat this like a brainstorming session, go for quantity instead of quality, don't judge or evaluate your ideas, just write down as many as you can. Ideas can be just tiny steps or broad sweeps, they can build on other ideas, or contradict them, anything goes.
 
@@ -94,16 +89,14 @@ You're done if you have at least one idea to match each criterion and each need.
 
 ## Themes and Strategies ##
 
-
-After you have collected enough ideas, you group them into themes so they’re easier to manage. With the themes you may be able to identify  different or even conflicting approaches, these are your potential strategies. You will pick the strategy that appears to have the highest chance of success, and define its intended outcome.
+After you have collected enough ideas, you group them into themes so they’re easier to manage. With the themes you may be able to identify different or even conflicting approaches, these are your potential strategies. You will pick the strategy that appears to have the highest chance of success, and define its intended outcome.
 
 ![Themes and Strategies](img/illustrations/themes-and-strategies.png)
 
 
 ### Group Ideas Into Themes ###
 
-
-When you have lots of ideas, themes will help you pick a strategy, and make it easier to integrate several ideas to form your first experiment(s).  
+When you have lots of ideas, themes will help you pick a strategy, and make it easier to integrate several ideas to form your first experiment(s).
 
 Go through the ideas you have collected, see which ones are similar or related and group them together - these are your themes. If you spot dependencies or conflicts, mark the ideas accordingly. Once all ideas are sorted, try and find a name for each group. Aim to keep themes clearly separated and avoid too much overlap. Depending on your scenario and the number of ideas this will probably take 10-15 minutes.
 
@@ -111,7 +104,6 @@ It’s not uncommon that new ideas emerge while grouping the existing ones, beca
 
 
 ### Decide on Your Strategy ###
-
 
 A **strategy** is a general approach how to respond to a driver. Think of a strategy as the outline of a plan, rather than a detailed turn-by-turn guide. 
 
@@ -121,13 +113,12 @@ For many smaller projects, it’s over the top to create a strategy, in that cas
 
 Creating a strategy has three simple steps:
 
-1. **Identify possible strategies**: Can you identify several substantially different strategies to tackle your issue?  Consider the driver, the criteria, ideas and themes you collected, and try sketching out a few possible strategies, taking into account conflicting ideas and dependencies. Sometimes you don't see different strategies, so you simply take the obvious one
+1. **Identify possible strategies**: Can you identify several substantially different strategies to tackle your issue? Consider the driver, the criteria, ideas and themes you collected, and try sketching out a few possible strategies, taking into account conflicting ideas and dependencies. Sometimes you don't see different strategies, so you simply take the obvious one
 2. **Pick a strategy**: Take a look at the possible strategies and select the one which appears to be most promising to you. There's no need for deep analysis here, you will have the chance to inspect and adapt this decision later in the process.
 3. **Describe Intended Outcome**: What is the intended outcome of your strategy? A good description of an intended outcome is a list of simple and measurable (or falsifiable) statements. Look to your criteria and considerations, each of those will hint at one or even several statements, but not all might be relevant to your strategy.
 
 
 ## Shaping Proposals ##
-
 
 You're clear about your situation and motivation, have collected criteria and ideas, and maybe even have defined your strategy, so everything's set for creating your first experiment. 
 
@@ -135,7 +126,6 @@ You're clear about your situation and motivation, have collected criteria and id
 
 
 ### Tuning Proposal(s) ###
-
 
 The ideas you collected are most likely too many to implement all at once, and usually don't form a consistent whole, you will find contradictory ingredients and some gaps in need of bridging.
 
@@ -150,14 +140,13 @@ It's a good idea to create an ordered backlog of the ideas (if you have defined 
 
 ### Defining Evaluation Criteria and Review Date(s) ###
 
-
 How do you know whether or not your experiment was a success? How can you determine when it's time to stop and try something else? 
 
 You need to be clear about your assumptions and expectations, what do you expect to change through running the experiment. Are your expectations SMART? (Specific - Measurable - Attainable - Realistic - Timed)
 
 Again, look at your driver (facts, observations and needs) as well as your criteria and considerations as a guide for defining simple metrics and be specific what range of measurements you would consider the experiment a success.
 
-  The key concept here is falsification: what would you accept as evidence that your assumptions have been wrong? Its imperative to think about this before you start the experiment, because after the start all kinds of cognitive biases may kick in (e.g. sunk cost fallacy), preventing you from making a rational decision. 
+The key concept here is falsification: what would you accept as evidence that your assumptions have been wrong? Its imperative to think about this before you start the experiment, because after the start all kinds of cognitive biases may kick in (e.g. sunk cost fallacy), preventing you from making a rational decision. 
 
 More evaluation criteria, complex metrics, and more data points can jeopardize experiments. If something is hard to measure, chances are you won't consistently sustain the effort of measuring, which will reduce or even eliminate your return on investment of running the experiment.
 
@@ -170,7 +159,6 @@ The last step is scheduling the first review: when will you evaluate outcome and
 
 ## Commit to Go ##
 
-
 Before you start, you should take one last good look at each of your proposals and determine if it's good to go.
 
 ![Commit to Go](img/illustrations/commit-to-go.png)
@@ -178,12 +166,10 @@ Before you start, you should take one last good look at each of your proposals a
 
 ### Clear as written ###
 
-
 Is the proposal documented in a way you will understand it a few months down the road? Now's the time to make amendments, because memory is a tricky thing and guessing and misunderstandings down the road often invalidates the learning from your experiments (and sometimes even without you noticing, which is the worst kind of waste).
 
 
 ### Good Enough for Now, Safe Enough to Try ###
-
 
 A proposal does not need to be perfect, you will tune and evolve it as you go. Still it has to be good enough for now, and safe enough to try, with no obvious flaws. Here's some questions to evaluate your proposals with:
 
@@ -201,11 +187,10 @@ Congratulations, this is a time to celebrate. Then you can begin to put your pla
 
 # Part 2 - Amplify Learning #
 
-
 Tbd.
 
-## The Logbook ##
 
+## The Logbook ##
 
 You need to develop and maintain a logbook for tracking all relevant information, otherwise you will not be able to reap the full benefit of a structured approach. 
 
@@ -215,7 +200,6 @@ I find that Outliners (e.g. [OmniOutliner](https://www.omnigroup.com/omnioutline
 
 
 ## Taking Notes ##
-
 
 To make sure you make as much as possible from your experiments, it's not enough to just document your drivers, strategies and experiments, you most likely also need to take notes as you go.
 
@@ -230,14 +214,13 @@ As you are conducting experiments which will often affect your general wellbeing
 
 ## Personal Retrospectives ##
 
-
 A personal retrospective is a session where you reflect on either a certain period of time or a finished project or experiment in order to identify patterns and discover growing edges as well as possible improvements. A retrospective usually has 5 phases:
 
-1. **setting the stage**: review your notes from the last retrospective on what you wanted to improve [^if you have any notes], tune in to the subject of the retrospective, get in the mood for reflection
-2. **gather data**: review your logbook or diary, maybe sketch out a timeline with the most important events to jog your memory
-3. **generate insights**: make a list of the patterns, anomalies and tensions you recognized when gathering data
-4. **decide what to do**: pick the top three items from your list and decide what to do about each of them. Sometimes the result will be a task or an action you can do right on the spot, sometimes you will schedule it for later, and sometimes you will simply update a driver, strategy or experiment. Take a look at the rest of your list, maybe there’s one or two things you want to add to your *tension backlog* (explained in more detail in Part 4 - Navigate via Tensions). There’s no need to keep everything, the important stuff will inevitably come back.
-5. **close the retrospective**: Do a quick review of the retrospective, what did you achieve in this retrospective, what can you improve next time?
+1. **Setting the stage**: review your notes from the last retrospective on what you wanted to improve [^if you have any notes], tune in to the subject of the retrospective, get in the mood for reflection
+2. **Gather data**: review your logbook or diary, maybe sketch out a timeline with the most important events to jog your memory
+3. **Generate insights**: make a list of the patterns, anomalies and tensions you recognized when gathering data
+4. **Decide what to do**: pick the top three items from your list and decide what to do about each of them. Sometimes the result will be a task or an action you can do right on the spot, sometimes you will schedule it for later, and sometimes you will simply update a driver, strategy or experiment. Take a look at the rest of your list, maybe there’s one or two things you want to add to your *tension backlog* (explained in more detail in Part 4 - Navigate via Tensions). There’s no need to keep everything, the important stuff will inevitably come back.
+5. **Close the retrospective**: Do a quick review of the retrospective, what did you achieve in this retrospective, what can you improve next time?
 
 For each of the phases, there are many different ideas and formats, which will probably be discussed in a later version of this guide.
 
@@ -248,10 +231,7 @@ A weekly retrospective might just take 10-15 minutes, if you reflect on a projec
 **Documenting the retrospective**: The relevant output of a retrospectives is the actions you planned and your notes about what to improve in the next retrospective. Some people prefer to record the whole retrospective in their [logbook][], however that is entirely optional.
 
 
-
-
 # Part 3 - Review and Evolve #
-
 
 On a regular basis you will spent a few minutes with each of your drivers, strategies and experiments so that you can continuously evolve and adapt them as you learn. After each review, make sure to schedule the next one. For new experiments, you should aim for a short cadence, like a couple of weeks, but after a few iterations it’s ok to do a review only once or twice a year.
 
@@ -260,12 +240,10 @@ On a regular basis you will spent a few minutes with each of your drivers, strat
 
 ## Triggering an Early Review ##
 
-
 Whenever you discover a significant tension with a driver or one of your experiments, you can trigger an early review, as waiting for the scheduled review is probably a waste of time. Make a note in the logbook of the reasons for reviewing early for future reference.
 
 
 ## Reviewing Experiments ##
-
 
 For the regular review of an experiment, you need your logbook and about 10 minutes of quiet time. 
 
@@ -281,7 +259,6 @@ When reviewing an experiment, you might learn something about your strategy or y
 
 ## Review Strategy and Intended Outcome ##
 
-
 A strategy should change with what you learn about yourself and your environment as you conduct experiments. Some strategies (as well as the intended outcomes) just need to be tweaked a little now and then, with other strategies you eventually discover that you better drop them and develop a new one. 
 
 Here’s a few useful questions to help you review strategies quickly:
@@ -289,7 +266,7 @@ Here’s a few useful questions to help you review strategies quickly:
 * Is the strategy still viable, can I still create new experiments that bring me closer to the intended outcome?
 * Is the description of the strategy still good enough?
 * Is the intended outcome in line with the strategy?
-* Can I  describe the intended outcome more clearly?
+* Can I describe the intended outcome more clearly?
 
 When you update a strategy, you need to check if this also affects experiments derived from the strategy. 
 
@@ -297,7 +274,6 @@ Once you decide you need to drop a strategy because it’s no longer helpful, yo
 
 
 ## Review the Driver ##
-
 
 Drivers change over time, the situation evolves, which, in turn, might affect the needs. Reviewing a driver is simple, and often takes just a few minutes:
 
@@ -313,11 +289,10 @@ Sometimes a driver ceases to exists, either because your strategies and experime
 
 # Part 4 - Navigate via Tensions #
 
-
 Tbd.
 
-## Collecting and Processing Tensions ##
 
+## Collecting and Processing Tensions ##
 
 ![Processing Tensions ](img/illustrations/processing-tensions-flowchart-personal.png)
 
@@ -330,7 +305,6 @@ Whenever you discover something which is not the way it should be, you have thre
 
 ## The Monthly Navigation Session ##
 
-
 The monthly session is an appointment with yourself where you process your backlog of tensions (including scheduled reviews). 
 
 It is good practice to time-box the session, depending on your situation you can expect the session to take between 30 and 90 minutes.
@@ -339,19 +313,17 @@ The session usually consists of five phases:
 
 1. **Tune in**: Take a brief look at our suggestions for improvements from the last session.
 2. **Review backlog and decide on agenda**: time-box this phase to 5 minutes, and take a look at you tension backlog to compile an agenda of the things you want to process in this session. Put the most important item on top, and do a quick estimate for each item how much time you’ll need to deal with it.
-3. **Process your agenda**:  Work through the items on your agenda in order of importance, and set the time box for each item to your estimate from phase one. If an item can't be completed in the session, you can schedule a separate session for a later date (but before the next navigation session). Often it’s a good idea to look at the driver, and then make that decision. 
+3. **Process your agenda**: Work through the items on your agenda in order of importance, and set the time box for each item to your estimate from phase one. If an item can't be completed in the session, you can schedule a separate session for a later date (but before the next navigation session). Often it’s a good idea to look at the driver, and then make that decision. 
 4. **Update tension backlog**: Make sure you remove processed items the tension backlog, and update priorities of the remaining items accordingly. If this takes longer than a few minutes, you may use the wrong system to maintain your backlog, or it may contain too many unimportant items.
 5. **Short review of the session**: What went well, what can you improve next time?
 
 
 ## The Tension Backlog ##
 
-
 tbd.
 
 
 # Some Consideration for Successful Implementation #
-
 
 It’s perfectly ok to start small, sometimes all it takes is understanding a driver, and your actions will naturally flow to align with it. In many cases you can skip strategies and intended outcome. For simple drivers and experiments there’s sometimes little value in retrospectives or reviews.
 
@@ -362,10 +334,9 @@ I wish you the best of luck, email me for any questions or comments at <bernhard
 
 # Appendix #
 
-
-
-
 ## Changelog ##
+
+**January 2020**: fixed typos and links, new layout for PDF ePub
 
 **May 2016**: Revised section about strategy.
 
@@ -376,6 +347,7 @@ I wish you the best of luck, email me for any questions or comments at <bernhard
 **December 2015**: added illustrations and introduction, expanded sections 1-3
 
 **October 2015**: First draft of the guide for use in personal coaching.
+
 
 ## About the Author ##
 
@@ -396,23 +368,20 @@ Bernhard Bockelbrink, April 2016
 
 The full text of this guide is available as a web page at <https://s3-for-one.com>, and as an ebook for download, see <https://s3-for-one.com/downloads.html> for details.
 
-*S3 for One* builds on Sociocracy 3.0 (a.k.a. S3), a framework I created together with my friend James Priest. S3 contains more than 60 patterns for for collaboration in agile organizations.  You can find out more about Sociocracy 3.0 at <https://sociocracy30.org/>.
+*S3 for One* builds on Sociocracy 3.0 (a.k.a. S3), a framework I created together with my friend James Priest. S3 contains more than 60 patterns for for collaboration in agile organizations. You can find out more about Sociocracy 3.0 at <https://sociocracy30.org/>.
 
 
 ## Simple Template for Documenting a Decisions and Experiments ##
-
 
 Tbd.
 
 
 ## An Example ##
 
-
-As an example to demonstrate what the application of *S3 for One* might look like, here’s the output of a session of  of picture forming and proposal shaping. It illustrates how much detail can be created, and shows both a strategy with the corresponding proposal, and a simple proposal that does not require a strategy.
+As an example to demonstrate what the application of *S3 for One* might look like, here’s the output of a session of picture forming and proposal shaping. It illustrates how much detail can be created, and shows both a strategy with the corresponding proposal, and a simple proposal that does not require a strategy.
 
 
 ### Driver - Improving My Job Situation ###
-
 
 * I have been employed in a small organization for around 4 years now
 * I'm happy with the work and with my colleagues
@@ -432,7 +401,6 @@ As an example to demonstrate what the application of *S3 for One* might look lik
 
 #### Needs ####
 
-
 * I want a long-term job
 * I want to work in an culture of trust, and with colleagues I can build relationships with
 * I need to earn enough money to sustain myself and my kids
@@ -444,10 +412,9 @@ As an example to demonstrate what the application of *S3 for One* might look lik
 * I sometimes have a need for greater challenges
 
 
-### Picture Forming ###
+### Picture Forming [pictureforming-example]###
 
-#### Criteria and Considerations ####
-
+#### Criteria and Considerations [criteriaandconsiderations-example] ####
 
 * Can I describe how flexible I need to be so a potential future employer can easily see if that is possible?
 * How can I find out whether or not my current employer can and would give me a raise?
@@ -465,7 +432,6 @@ As an example to demonstrate what the application of *S3 for One* might look lik
 
 
 #### Ideas ####
-
 
 * Ask my employer what my colleagues earn
 * I could figure out what I want to save each year, and add this amount plus what I took out of my savings each year to calculate the pay rise I need.
@@ -490,7 +456,6 @@ As an example to demonstrate what the application of *S3 for One* might look lik
 
 #### Potential Strategies ####
 
-
 * Try to get as much information as I can and use that to my advantage when negotiating a raise with my current employer. 
 * Get enough information so I can approach my employer and propose an honest and open exchange about my needs and possibilities to fulfill them. If that fails, start looking for a new job.
 * Start looking for a new job and take the first offer that meets my needs.
@@ -500,12 +465,10 @@ As an example to demonstrate what the application of *S3 for One* might look lik
 
 ### Strategy: Gather Just Enough Information for Honest Exchange ###
 
-
 My strategy is this: I will gather enough information so I can approach my employer and propose an honest and open exchange about my needs and discuss possibilities to fulfill them. If that fails, I'll start looking for a new job. 
 
 
 #### Intended Outcome ####
-
 
 In the best case we will have an open conversation and reach an agreement about a pay rise that works for both of us. This will also be helpful for our future work relationship.
 
@@ -515,7 +478,6 @@ In the worst case, I will either find out that a pay rise is not possible in thi
 #### Proposal ####
 
 ##### Prepare the conversation #####
-
 
 I will figure out what I want to save each year, and add this amount
  plus what I took out of my savings each year to calculate the pay rise
@@ -534,14 +496,13 @@ Also I will make a list of reasons why this pay rise is reasonable
 * my estimate how much money I already made for the organization
 * ...
 
-##### Schedule the Conversation #####
 
+##### Schedule the Conversation #####
 
 When my preparations are done (at most 2 weeks from today), I will ask my employer to schedule a conversation about my compensation where I can present why I think it's reasonable for me to earn more money, and we work collaborate on an agreement that works for both of us.
 
 
 ##### During the Conversation #####
-
 
 I will present what I prepared and then listen to what my employer has to say. I will take notes so that I can remember the main points. After hearing my employer's response, if it makes sense I will invite them to start collecting ideas and then co-create a proposal for my compensation.
 
@@ -549,7 +510,6 @@ I will not take or reject any offer in this session, instead I will propose to t
 
 
 ##### Evaluation/Review #####
-
 
 I will block time in my calendar right after the conversation so I have time for a review. I will go out and have a coffee to avoid interruptions. Main points for review are:
 
@@ -560,14 +520,12 @@ I will block time in my calendar right after the conversation so I have time for
 After addressing these points I will have a good idea whether or not I want to stay with the organization.
 
 
-### Other  Proposal(s) ###
-
+### Other Proposal(s) ###
 
 This proposal is also covered by the driver, but unrelated to the previous strategy, so it can be implemented in parallel.
 
 
 #### Learning new things ####
-
 
 I will take a few hours each week to learn new things. To that end, I will schedule study periods every Tuesday morning for 90 minutes, and Thursday right after lunch for 60 minutes. In my first session I will compile a short backlog topics relevant to my current projects.
 

@@ -1,4 +1,4 @@
-Title: ${title_long}
+Title: ${title_long} - Downloads
 Author: ${author}
 Date: ${version}
 Copyright: ${copyright}
@@ -11,8 +11,10 @@ Base Header Level: 1
 <img style="max-width: 100%;" src="img/other/header.png" alt="" title="S3 for One - An Application of Sociocracy 3.0 for Intentional Personal Change" />
 </figure>
 
-[Download this text as epub or pdf](downloads.html)
+# Downloads 
 
-{{TOC}}
+* [S3 for One (epub)](s3-for-one.epub) (latest version)
+* [S3 for One (pdf)](s3-for-one.pdf) (latest version)
 
-{{s3-for-one.md}}
+[return to text](index.html)
+

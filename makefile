@@ -36,8 +36,8 @@ endif
 	multimarkdown --to=html --output=tmp/web/index.html src/templates/web/master-html.md
 	multimarkdown --to=html --output=tmp/web/downloads.html src/downloads.md
 	# provide pdf and epub for website
-	cp $(NAME).epub tmp/site//$(NAME).epub
-	cp $(NAME).pdf tmp/site//$(NAME).pdf
+	cp $(NAME).epub tmp/web/$(NAME).epub
+	cp $(NAME).pdf tmp/web/$(NAME).pdf
 
 make clean:
 	# take no risk here!

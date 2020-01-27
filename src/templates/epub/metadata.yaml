@@ -1,0 +1,13 @@
+title:
+- type: main
+  text: S3 for One
+- type: subtitle
+  text:  An Application of Sociocracy 3.0 for Intentional Personal Change
+creator:
+- role: author
+  text: Bernhard Bockelbrink
+rights: © 2015 - 2020 Bernhard Bockelbrink, CC-BY-SA
+lang: en-US
+page-progression-direction: ltr
+cover-image: img/other/book-cover.png
+css: buttondown.css

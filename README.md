@@ -4,6 +4,8 @@ This guide describes the application of Sociocracy 3.0 (a.k.a. ’S3') as a fram
 
 Do you want to improve your communication skills, develop a healthier lifestyle, read more, love more, learn a new language, or get a new job? *S3 for One* provides you with a structured process to navigate intentional change in your life, be it just a small habit, a big change, a tricky decision or even the discovery of what you want to do with your life.
 
+![](https://raw.githubusercontent.com/bboc/s3-for-one/master/src/img/illustrations/overview-diagram.png)
+
 *S3 for One* is an adaptive process, it allows you to go as fast or as slow as you want (or can). It facilitates understanding about yourself and the situation you’re in, and helps you translate this learning into intentional and incremental change. The underlying idea is very simple: you assess your situation and your needs, you identify possible strategies and decide which one looks most promising, and then you create a series of small experiments to discover whether or not you can successfully implement your strategy. Each experiment will reveal new information about yourself, your situation, and your strategy, so you can easily adapt and evolve your approach.
 
 Curious? *S3 for One* is available as a web page at <http://s3-for-one.com>, and as an ebook for download, see <http://s3-for-one.com/downloads.html> for details.
